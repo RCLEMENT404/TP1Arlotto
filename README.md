@@ -10,11 +10,12 @@ On peut bien voir sur l'image le signal carré de 1kHz 5V p-p.
 Il fallait un peur régler le condensateur de la sonde pour avoir un beau signal carré.
 
 ## 2.Mesure de tensions continues
-![](TEK0001.BMP)
+![](images/TEK0001.bmp)
 Tension 5V
-![](TEK0002.BMP)
+![](images/TEK0002.bmp)
 Tension 3.3V
-![](TEK0003.BMP)
+![](images/TEK0003.bmp)
+Tension aux bornes de la led rouge.
 
 ## 3. Mesures de signaux périodique
 
