@@ -9,6 +9,12 @@ Sur l'oscilloscope, il y a une borne de calibration pour pouvoir vérifier le bo
 On peut bien voir sur l'image le signal carré de 1kHz 5V p-p.
 Il fallait un peur régler le condensateur de la sonde pour avoir un beau signal carré.
 
+## 2.Mesure de tensions continues
+![](TEK0001.BMP)
+Tension 5V
+![](TEK0002.BMP)
+Tension 3.3V
+![](TEK0003.BMP)
 
 ## 3. Mesures de signaux périodique
 
@@ -48,3 +54,5 @@ Le prof à intelligeament choisis le charactère 'U', pour que le signal est cet
 ![](images/TEK0010.bmp)
 
 C'est un 'A'.
+![](TEK0000.BMP)
+
