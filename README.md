@@ -60,19 +60,33 @@ C'est un 'A'.
 ## 4. Mesures de durées d'exécution
 
 ![](images/TEK0011.bmp)
-Mesure pour v=4*t+5
+Mesure pour v=4xt+5
+
 ![](images/TEK0012.bmp)
-Mesure pour v=4.0*t+5.0
+Mesure pour v=4.0xt+5.0
+
 ![](images/TEK0013.bmp)
-Mesure pour v=4.0*t+5
+Mesure pour v=4.0xt+5
+
 ![](images/TEK0014.bmp)
-Mesure pour v=4*t+5.0
+Mesure pour v=4xt+5.0
 
 On peux en conclure que le float est plus long que l'integer.
+
+## 5. Perturbations sur alimentation
+
+![](images/TEK0015.bmp)
+L'alimentation quand le microcontrolleur est au repos. Il y a à peut près 20 mV p-p de perturbations.
+
+![](images/TEK0016.bmp)
+L'alimentation quand une led clignote. Il y a 60 mV p-p de parasites.
+
+![](images/TEK0017.bmp)
+L'alimention quand 3 leds clignotent. Il y a 250 mV p-p de perturbations, soit à peut près 5x plus qu'au repos.
 
 ## 6. Captures d'éventements fugitifs
 
 ![](images/TEK0018.bmp)
-Signal du caractère C
+Signal du caractere C
 
-La conversion du signal en binaire est 0100 0011 soit le caractère C en ASCII.
+La conversion du signal en binaire est 0100 0011 soit le caractere C en ASCII.
