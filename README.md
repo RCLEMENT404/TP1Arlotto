@@ -92,7 +92,7 @@ Signal du caractere C
 La conversion du signal en binaire est 0100 0011 soit le caractere C en ASCII.
 
 ![](images/TEK0066.bmp)
-Horloge SCL (en jaune)  SDA (en bleu)
+Horloge SCL (en jaune) et SDA (en bleu)
 
 La fréquence de l’horloge SCL est 100 kHz
 
