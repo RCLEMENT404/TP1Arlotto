@@ -55,5 +55,24 @@ Le prof à intelligeament choisis le charactère 'U', pour que le signal est cet
 ![](images/TEK0010.bmp)
 
 C'est un 'A'.
-![](TEK0000.BMP)
+![](TEK0000.bmp)
 
+## 4. Mesures de durées d'exécution
+
+![](images/TEK0011.bmp)
+Mesure pour v=4*t+5
+![](images/TEK0012.bmp)
+Mesure pour v=4.0*t+5.0
+![](images/TEK0013.bmp)
+Mesure pour v=4.0*t+5
+![](images/TEK0014.bmp)
+Mesure pour v=4*t+5.0
+
+On peux en conclure que le float est plus long que l'integer.
+
+## 6. Captures d'éventements fugitifs
+
+![](images/TEK0018.bmp)
+Signal du caractère C
+
+La conversion du signal en binaire est 0100 0011 soit le caractère C en ASCII.
